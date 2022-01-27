@@ -1,0 +1,13 @@
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp3.1\BinaryTreeExample.exe
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp3.1\BinaryTreeExample.deps.json
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp3.1\BinaryTreeExample.runtimeconfig.json
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp3.1\BinaryTreeExample.runtimeconfig.dev.json
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp3.1\BinaryTreeExample.dll
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\bin\Debug\netcoreapp3.1\BinaryTreeExample.pdb
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.AssemblyInfoInputs.cache
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.AssemblyInfo.cs
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.dll
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.pdb
+C:\Users\arfzb\Desktop\Files\v\vs2022\repos\BinaryTreeExample\BinaryTreeExample\obj\Debug\netcoreapp3.1\BinaryTreeExample.genruntimeconfig.cache
