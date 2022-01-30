@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryTreeExample\\BinaryTreeExample.csproj": {}
+    "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryHeapExample\\BinaryHeapExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryTreeExample\\BinaryTreeExample.csproj": {
+    "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryHeapExample\\BinaryHeapExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryTreeExample\\BinaryTreeExample.csproj",
-        "projectName": "BinaryTreeExample",
-        "projectPath": "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryTreeExample\\BinaryTreeExample.csproj",
+        "projectUniqueName": "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryHeapExample\\BinaryHeapExample.csproj",
+        "projectName": "BinaryHeapExample",
+        "projectPath": "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryHeapExample\\BinaryHeapExample.csproj",
         "packagesPath": "C:\\Users\\arfzb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryTreeExample\\obj\\",
+        "outputPath": "C:\\Users\\arfzb\\Desktop\\Files\\d\\DataStructures\\BinaryHeapExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
