@@ -1,0 +1,14 @@
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\bin\Debug\netcoreapp3.1\BinaryHeapExample.exe
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\bin\Debug\netcoreapp3.1\BinaryHeapExample.deps.json
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\bin\Debug\netcoreapp3.1\BinaryHeapExample.runtimeconfig.json
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\bin\Debug\netcoreapp3.1\BinaryHeapExample.runtimeconfig.dev.json
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\bin\Debug\netcoreapp3.1\BinaryHeapExample.dll
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\bin\Debug\netcoreapp3.1\BinaryHeapExample.pdb
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.csproj.AssemblyReference.cache
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.AssemblyInfoInputs.cache
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.AssemblyInfo.cs
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.csproj.CoreCompileInputs.cache
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.dll
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.pdb
+C:\Users\arfzb\Desktop\Files\d\DataStructures\BinaryHeapExample\obj\Debug\netcoreapp3.1\BinaryHeapExample.genruntimeconfig.cache
