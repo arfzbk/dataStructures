@@ -8,6 +8,7 @@ namespace BinaryHeapExample
         where T : IComparable
     {
         public MaxHeap() : base() { }
+        
         public MaxHeap(int size) : base(size) { }
         public MaxHeap(ICollection<T> collection) : base(collection) { }
         protected override void HeapifyDown()
